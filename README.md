@@ -2,7 +2,7 @@
 
 # React + Vite
 
-This is a sample App for color picking. It basic react app for picking background colour.
+This is a sample React App for color picking.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
