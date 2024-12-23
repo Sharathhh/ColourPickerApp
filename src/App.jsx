@@ -15,7 +15,7 @@ function App() {
 <p>selected color:{color}</p>
 </div>
 
-<label > Select a color:</label>
+<label > Select Your color:</label>
 <input type="color"  value={color} onChange={handleColourChange}/>
 
 </div>  )
